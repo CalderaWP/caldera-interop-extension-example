@@ -9,7 +9,7 @@
   ],
   "require": {
     "php": "^7.1",
-    "calderawp/caldera-interop": "*"
+    "calderawp/caldera-interop": "dev-master"
   },
   "autoload": {
     "psr-4": {
@@ -27,7 +27,6 @@
   "autoload-dev": {
     "psr-4": {
       "calderawp\\ExampleInteropExtension\\Tests\\": "Tests/"
-
     }
   },
   "require-dev": {
